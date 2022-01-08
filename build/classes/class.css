@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&family=Source+Code+Pro:wght@300&display=swap');
+
+body {
+    background-color: snow;
+}
+
+pre.prettyprint {
+    border: none !important;
+    background-color: rgb(230, 230, 230) !important;
+    font-size: 17px;
+    font-family: 'Source Code Pro', monospace;
+    font-weight: bold;
+}
+
+p {
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+}
+
+ul {
+    font-family: 'Source Code Pro', monospace;
+    font-weight: bold;
+    font-size: 13px;
+}
+
+.no-desc {
+    color: darkred;
+}
+
+h1 {
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    color: rgb(22, 22, 22);
+}
+
+h2 {
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    color: rgb(22, 22, 22);
+    text-decoration: underline;
+}

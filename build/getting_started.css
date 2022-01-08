@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+
+body {
+    background-color: snow;
+}
+
+p {
+    font-family: 'Roboto', sans-serif;
+    color: rgb(22, 22, 22);
+    font-weight: bold;
+}
+
+#getting-started {
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    color: rgb(22, 22, 22);
+}
+
+#notice-the-majority-of-the-features-documented-are-not-currently-implemented-and-are-just-theoretical {
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    color: rgb(22, 22, 22);
+}
